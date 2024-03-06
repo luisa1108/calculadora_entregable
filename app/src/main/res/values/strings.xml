@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="loading">Cargando...</string>
+
+    <string name="calculadora_seno">Calculadora de Seno</string>
+    <string name="seleccionseno">Seleccione el sistema de medición de ángulos</string>
+    <string name="angulo_seno">Ingrese el ángulo</string>
+    <string name="grados_seno">Grados</string>
+    <string name="radianes_seno">Radianes</string>
+    <string name="btn_calcular_seno">Calcular Seno</string>
+
+    <string name="calculadora_coseno">Calculadora de Coseno</string>
+    <string name="seleccioncoseno">Seleccione el sistema de medición de ángulos</string>
+    <string name="angulo_de_coseno">Ingrese el ángulo</string>
+    <string name="grados_coseno">Grados</string>
+    <string name="radianes_coseno">Radianes</string>
+    <string name="btn_calcular_coseno">Calcular Coseno</string>
+
+    <string name="calculadora_raiz">Calculadora de Raíz</string>
+    <string name="numero_raiz">Ingrese un número</string>
+    <string name="btn_calcular_raiz">Calcular Raíz</string>
+
+    <string name="calculadora_perimetro">Calculadora de Perímetro</string>
+    <string name="longitud1">Ingrese la longitud del primer lado</string>
+    <string name="longitud2">Ingrese la longitud del segundo lado</string>
+    <string name="longitud3">Ingrese la longitud del tercer lado</string>
+    <string name="btn_calcular_perimetro">Calcular Perímetro</string>
+
+    <string name="resultado">Resultado</string>
+</resources>
